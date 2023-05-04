@@ -1,5 +1,5 @@
 # dio-desafio-github-primeiro-repositorio
 Desafio de projeto sobre Git/Github
 
-## Links úteis
+## Links Úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/)
